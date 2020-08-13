@@ -193,5 +193,12 @@
   },
   "Functional Programming": {
     "type": "technical",
-  }
+  },
+  "Open Layers": {
+    "type": "technical",
+  },
+  "CI/CD": {},
+  "GitHub": {},
+  "Octopus": {},
+  "DevOps": {}
 }
