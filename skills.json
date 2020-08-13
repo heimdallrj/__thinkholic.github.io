@@ -1,0 +1,14 @@
+{
+  "JavaScript": {
+    "type": "technical",
+    "taxonomy": "programming-language",
+    "parent": null,
+    "rate": 9 // out of 10
+  },
+  "PHP": {
+    "type": "technical",
+    "subType": "programming-language",
+    "parent": null,
+    "rate": 9 // out of 10
+  }
+}
