@@ -46,53 +46,152 @@
     "tags": [],
     "rate": 9
   },
-  "MySQL": {},
-  "jQuery": {},
-  "JSON": {},
-  "HTML": {},
-  "CSS": {},
-  "JAVA": {},
-  "Ajax": {},
-  "SQL": {},
-  "C#": {},
-  "XML": {},
-  "Laravel": {},
-  "CodeIgnitor": {},
+  "MySQL": {
+    "type": "technical",
+    "taxonomy": "database",
+    "dimension": null,
+    "parent": "",
+    "tags": ["relational-database"],
+    "rate": 9
+  },
+  "jQuery": {
+    "type": "technical",
+  },
+  "JSON": {
+    "type": "technical",
+  },
+  "HTML": {
+    "type": "technical",
+  },
+  "CSS": {
+    "type": "technical",
+  },
+  "JAVA": {
+    "type": "technical",
+  },
+  "Ajax": {
+    "type": "technical",
+  },
+  "SQL": {
+    "type": "technical",
+  },
+  "C#": {
+    "type": "technical",
+  },
+  "XML": {
+    "type": "technical",
+  },
+  "Laravel": {
+    "type": "technical",
+  },
+  "CodeIgnitor": {
+    "type": "technical",
+  },
   "Git": "",
-  "MongoDB": {},
+  "MongoDB": {
+    "type": "technical",
+  },
   "Drupal": "",
-  "AWS": {},
-  "GCP": {},
-  "Docker": {},
-  "Vagrant": {},
-  "Google Analytics": {},
-  "Firebase": {},
-  "Blockchain": {},
-  "Angular": {},
-  "AngularJS": {},
-  "Meteor.js": {},
-  "Redux": {},
-  "Flux": {},
-  "Vue.js": {},
-  "RESTful": {},
-  "SOAP": {},
-  "GraphQL": {},
-  "Serverless": {},
-  ".net Core": {},
-  "React-Native": {},
-  "SQL": {},
-  "SQL Server": {},
-  "DigitalOcean": {},
-  "Flow": {},
-  "TypeScript": {},
-  "Express.js": {},
-  "Golang": {},
-  "Machine Learning": {},
-  "Deep Learning": {},
-  "IPFS": {},
-  "Agile": {},
-  "OKR": {},
-  "Distributed Systems": {},
-  "OOP": {},
-  "Functional Programming": {}
+  "AWS": {
+    "type": "technical",
+  },
+  "GCP": {
+    "type": "technical",
+  },
+  "Docker": {
+    "type": "technical",
+  },
+  "Vagrant": {
+    "type": "technical",
+  },
+  "Google Analytics": {
+    "type": "technical",
+  },
+  "Firebase": {
+    "type": "technical",
+  },
+  "Blockchain": {
+    "type": "technical",
+  },
+  "Angular": {
+    "type": "technical",
+  },
+  "AngularJS": {
+    "type": "technical",
+  },
+  "Meteor.js": {
+    "type": "technical",
+  },
+  "Redux": {
+    "type": "technical",
+  },
+  "Flux": {
+    "type": "technical",
+  },
+  "Vue.js": {
+    "type": "technical",
+  },
+  "RESTful": {
+    "type": "technical",
+  },
+  "SOAP": {
+    "type": "technical",
+  },
+  "GraphQL": {
+    "type": "technical",
+  },
+  "Serverless": {
+    "type": "technical",
+  },
+  ".net Core": {
+    "type": "technical",
+  },
+  "React-Native": {
+    "type": "technical",
+  },
+  "SQL": {
+    "type": "technical",
+  },
+  "SQL Server": {
+    "type": "technical",
+  },
+  "DigitalOcean": {
+    "type": "technical",
+  },
+  "Flow": {
+    "type": "technical",
+  },
+  "TypeScript": {
+    "type": "technical",
+  },
+  "Express.js": {
+    "type": "technical",
+  },
+  "Golang": {
+    "type": "technical",
+  },
+  "Machine Learning": {
+    "type": "technical",
+  },
+  "Deep Learning": {
+    "type": "technical",
+  },
+  "IPFS": {
+    "type": "technical",
+  },
+  "Agile": {
+    "type": "technical",
+  },
+  "OKR": {
+    "type": "technical",
+  },
+  "Distributed Systems": {
+    "type": "technical",
+  },
+  "OOP": {
+    "type": "technical",
+  },
+  "Functional Programming": {
+    "type": "technical",
+  }
 }
